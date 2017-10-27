@@ -1,0 +1,491 @@
+culmus - TrueType and Type1 Hebrew Fonts for X11
+fonts-liberation - Fonts with the same metrics as Times, Arial and Courier
+fonts-sil-scheherazade - smart Unicode font for Arabic
+fonts-tlwg-garuda - Thai Garuda font
+fonts-tlwg-mono - Thai TlwgMono font
+fonts-tlwg-typewriter - Thai TlwgTypewriter font
+fonts-tlwg-typist - Thai TlwgTypist font
+fonts-tlwg-typo - Thai TlwgTypo font
+fonts-ubuntu-font-family-console - Ubuntu Font Family Linux console fonts, sans-serif monospace
+kde-icons-mono - monochromatic icons theme
+libgdiplus - interface library for System.Drawing of Mono
+libmono-2.0-1-dbg - Mono JIT library, debugging symbols
+libmono-csharp4.0-cil - Mono.CSharp library (for CLI 4.0)
+libmono-debugger-soft2.0-cil - Mono Soft Debugger library (for CLI 2.0)
+libmono-debugger-soft4.0-cil - Mono Soft Debugger library (for CLI 4.0)
+libmono-opensystem-c4.0-cil - Mono OpenSystem.C library (for CLI 4.0)
+libmono-peapi4.0-cil - Mono PEAPI library (for CLI 4.0)
+libmono-system-servicemodel4.0-cil - Mono System.ServiceModel Library (for CLI 4.0)
+libmono-system-windows-forms-datavisualization4.0-cil - Mono System.Windows.Forms.DataVisualization Library (for CLI 4.0)
+libmono-web4.0-cil - Mono.Web library (for CLI 4.0)
+libopenal-data - Software implementation of the OpenAL API (data files)
+libopenal1 - Software implementation of the OpenAL API (shared library)
+libslang2-dev - S-Lang programming library, development version
+libxpm-dev - X11 pixmap library (development headers)
+libxpm4 - X11 pixmap library
+libxpm4-dbg - X11 pixmap library (debug package)
+nant - build tool similar to Ant
+printer-driver-splix - Driver for Samsung and Xerox SPL2 and SPLc laser printers
+python-all - package depending on all supported Python runtime versions
+python-all-dbg - package depending on all supported Python debugging packages
+python-all-dev - package depending on all supported Python development packages
+python3-all - package depending on all supported Python 3 runtime versions
+python3-all-dbg - package depending on all supported Python 3 debugging packages
+python3-all-dev - package depending on all supported Python 3 development packages
+libflickrnet-cil-dev - Flickr.Net API Library
+libflickrnet2.2-cil - Flickr.Net API Library
+libhpmud-dev - Bibliotecas de desarrollo del controlador de transporte multipunto de HP (hpmud)
+libhpmud0 - Bibliotecas ejecutables del controlador de transporte multipunto de HP (hpmud)
+libmono-peapi2.0-cil - Biblioteca Mono PEAPI (para CLI 2.0)
+libmono-wcf3.0-cil - Bibliotecas WCF de Mono (para la CLI 2.0)
+libpthread-stubs0 - stubs de pthread no proporcionados por la biblioteca libc nativa
+libpthread-stubs0-dev - pthread stubs not provided by native libc, development files
+monodoc-base - binarios compartidos de MonoDoc
+monodoc-browser - Visor basado en GTK+ para MonoDoc
+monodoc-manual - documentación compilada en XML del proyecto Mono
+monodoc-webkit-manual - documentación compilada en XML para webkit-sharp
+texlive-fonts-extra - TeX Live: Extra fonts
+texlive-lang-cyrillic - TeX Live: cirílico
+ttf-dejavu - Metapackage to pull in ttf-dejavu-core and ttf-dejavu-extra
+ttf-dejavu-core - Derivado de la familia tipográfica Vera con caracteres adicionales
+ttf-dejavu-extra - Derivado de la familia tipográfica Vera con caracteres adicionales
+ttf-freefont - tipografías «Truetype» Freefont Serif, Sans y Mono
+ttf-wqy-microhei - Una tipografía CJK de estilo Sans-Serif derivada de un droid
+ttf-wqy-zenhei - "WenQuanYi Zen Hei" A Hei-Ti Style (sans-serif) Chinese font
+ubuntu-mono - Tema de iconos Ubuntu Mono
+ttf-mscorefonts-installer - Installer for Microsoft TrueType core fonts
+lgrind - Un programa de impresión para varios lenguajes de programación
+picon-domains - base de datos Picon (Imágenes Personales) para logotipos de dominios de internet.
+picon-misc - base de datos Picon (Imágenes Personales) de cuentas comunes y miscelánea
+picon-news - bd Picon (Imágenes Personales) de grupos de noticias Usenet y jerarquías
+picon-unknown - base de datos Picon (Imágenes Personales) para dominios de alto nivel
+picon-usenix - bd Picon (Imágenes Personales) de oyentes de conferencia Usenix
+picon-users - base de datos Picon (Imágenes Personales) de cuentas individuales de Internet
+picon-weather - base de datos Picon (Imágenes Personales) para mostrar la predicción meteorológica
+t1-xfree86-nonfree - tipografía  Postscript tipo 1 no-libre para XFree86
+ttf-xfree86-nonfree - TipografíasTrueType no-libres para XFree86
+asp.net-examples - demo pages for ASP.NET infrastructure
+asterisk-core-sounds-en-wav - asterisk PBX sound files - English/wav
+asterisk-core-sounds-es-wav - asterisk PBX sound files - Spanish/wav
+asterisk-core-sounds-fr-wav - asterisk PBX sound files - French/wav
+asterisk-moh-opsound-wav - asterisk extra sound files - English/wav
+autopano-sift - Automated control point extraction for panorama generation
+autotalent - pitch correction LADSPA plugin
+azr3-jack - drawbar organ simulator
+bino - 3D video player
+bino-dbg - debugging symbols for bino 3D video player
+cairo-dock-plug-ins-dbus-interface-mono - Mono interface to interact with Cairo-Dock by using DBus
+dicomscope - OFFIS DICOM Viewer
+diffuse - graphical tool for merging and comparing text files
+dvi2ps-fontdata-ptexfake - Fake pTeX TFM files
+fonts-droid - handheld device font with extensive style and language support
+fonts-gfs-neohellenic - new Greek font family with matching Latin
+fonts-gfs-porson - Greek font (Porson revival)
+fonts-inconsolata - monospace font for pretty code listings and for the terminal
+fonts-jura - monospaced, sans-serif font
+fonts-levien-museum - metal Centaur fonts revival family
+fonts-motoya-l-cedar - Japanese Truetype font, Motoya L Cedar
+fonts-motoya-l-maruberi - Japanese Truetype font, Motoya L Maruberi
+fonts-sipa-arundina - Thai DejaVu-compatible fonts
+fonts-uralic - Truetype fonts for Cyrillic-based Uralic languages
+gargoyle-free - graphical player for Interactive Fiction games
+gendarme - extensible rule-based checker for CLI assemblies
+gfax - GNOME frontend for fax programs
+gimp-texturize - generates large textures from a small sample
+gringo - grounding tools for (disjunctive) logic programs
+icedax - Creates WAV files from audio CDs
+ikvm - Java virtual machine for the CLI
+invada-studio-plugins-ladspa - Invada Studio Plugins - a set of LADSPA audio plugins
+invada-studio-plugins-lv2 - Invada Studio Plugins - a set of LV2 audio plugins
+jack-mixer - JACK Audio Mixer
+ladspa-foo-plugins - Sampo Savolainen's LADSPA plugins
+latex-fonts-sipa-arundina - Thai DejaVu-compatible fonts for LaTeX
+lhs2tex - Generates LaTeX code from literate Haskell sources
+libapache2-mod-mono - Apache module for running ASP.NET applications on Mono
+libdb4o-cil-dev - native OODBMS for CLI - development files
+libdb4o8.0-cil - native OODBMS for CLI
+libghc-monoid-transformer-dev - Transformers for Reader and State Monoids
+libghc-monoid-transformer-doc - Transformers for Reader and State Monoids; documentation
+libghc-monoid-transformer-prof - Transformers for Reader and State Monoids; profiling libraries
+libghc-neither-dev - version of Either with good monad/applicative instances
+libghc-neither-doc - version of Either with good monad/applicative instances; documentation
+libghc-neither-prof - version of Either with good monad/applicative instances; profiling libraries
+libghc6-monoid-transformer-dev - transitional dummy package
+libghc6-monoid-transformer-doc - transitional dummy package
+libghc6-monoid-transformer-prof - transitional dummy package
+libgtk2-sourceview2-perl - enhanced source code editor widget
+libjas-plotter-java - JAS(2) Plotter graphic library
+libjcalendar-java - Java date chooser bean for graphically picking a date
+libjcalendar-java-doc - Java date chooser bean for picking a date (documentation)
+libmono-addins-cil-dev - addin framework for extensible CLI applications/libraries
+libmono-addins-gui-cil-dev - GTK# frontend library for Mono.Addins
+libmono-addins-gui0.2-cil - GTK# frontend library for Mono.Addins
+libmono-addins-msbuild-cil-dev - MSBuild task library for Mono.Addins
+libmono-addins-msbuild0.2-cil - MSBuild task library for Mono.Addins
+libmono-addins0.2-cil - addin framework for extensible CLI applications/libraries
+libmono-cecil-cil-dev - library to generate and inspect CIL assemblies
+libmono-cecil-flowanalysis-cil - FlowAnalysis extension for Mono.Cecil
+libmono-cecil-flowanalysis-cil-dev - FlowAnalysis extension for Mono.Cecil
+libmono-reflection-cil - CLI reflection helper library
+libmono-reflection-cil-dev - CLI reflection helper library
+libmono-upnp-cil - client/server libraries for UPnP -- CIL assemblies
+libmono-upnp-cil-dev - client/server libraries for the UPnP -- development files
+libmono-zeroconf1.0-cil - CLI library for multicast DNS service discovery
+libpolybori-0.5.0-0 - Polynomials over Boolean Rings, shared library
+libpolybori-dev - Polynomials over Boolean Rings, development files
+libsemweb1.0-cil - Semantic Web/RDF library
+libsublib-cil - CLI library that eases the development of subtitling applications
+libtaoframework-devil1.6-cil - Tao CLI binding for DevIL
+libtaoframework-ffmpeg-cil-dev - Tao CLI binding for FFmpeg - development files
+libtaoframework-ffmpeg0.4-cil - Tao CLI binding for FFmpeg
+libtaoframework-freeglut-cil-dev - Tao CLI binding for freeglut - development files
+libtaoframework-freetype-cil-dev - Tao CLI binding for FreeType - development files
+libtaoframework-lua5.1-cil - Tao CLI binding for Lua
+libtaoframework-ode-cil-dev - Tao CLI binding for ODE - development files
+libtaoframework-openal-cil-dev - Tao CLI binding for OpenAL - development files
+libtaoframework-opengl3.0-cil - Tao CLI binding for OpenGL and GLU
+libtaoframework-physfs-cil-dev - Tao CLI binding for PhysicsFS - development files
+libtaoframework-physfs1.0-cil - Tao CLI binding for PhysicsFS
+libtaoframework-sdl-cil-dev - Tao CLI binding for SDL - development files
+libtaoframework-sdl1.2-cil - Tao CLI binding for SDL
+libtext-greeking-perl - Perl module for generating meaningless filler text
+libvirtuoso5.5-cil - high-performance database - Mono assemblies
+linuxlogo - Color ANSI System Logo
+lv2fil - Stereo and mono LV2 plugins, four-band parametric equalisers
+massxpert-dbg - linear polymer mass spectrometry software - debugging symbols
+minidjvu - Monochrome DjVu multipage encoder, single page encoder/decoder
+mono-addins-utils - Command-line utility for Mono.Addins management
+mono-apache-server - ASP.NET backend for mod_mono Apache module - default version
+mono-apache-server2 - ASP.NET 2.0 backend for mod_mono2 Apache module
+mono-apache-server4 - ASP.NET 1.1 backend for mod_mono Apache module
+mono-fastcgi-server - ASP.NET backend for FastCGI webservers - default version
+mono-fastcgi-server2 - ASP.NET 2.0 backend for FastCGI webservers
+mono-fastcgi-server4 - ASP.NET 4.0 backend for FastCGI webservers
+mono-profiler - Mono profiler
+mono-tools-devel - Various development tools for mono
+mono-tools-gui - Various GUI tools for mono
+mono-upnp-bin - client/server libraries for UPnP -- executables
+mono-xsp - simple web server to run ASP.NET applications - default version
+mono-xsp4 - simple web server to run ASP.NET 4.0 applications
+mono-xsp4-base - base libraries for XSP 4.0
+monobristol - simple GUI for Bristol
+monodoc-clutter-manual - compiled XML documentation for clutter-sharp
+monodoc-gkeyfile-manual - compiled XML documentation for gkeyfile-sharp
+monodoc-gmime2.6-manual - compiled XML documentation for GMime
+monodoc-gstreamer-manual - CLI bindings to GStreamer - developer documentation
+monodoc-gudev-manual - compiled XML documentation for gudev-sharp
+monodoc-mono-upnp-manual - Compiled XML documentation for mono-upnp
+monodoc-notify-sharp-manual - compiled XML documentation for notify-sharp
+monodoc-poppler-manual - compiled XML documentation for Poppler Sharp
+monodoc-semweb-manual - compiled XML documentation for SemWeb
+monodoc-zeitgeist-manual - compiled XML documentation for zeitgeist-sharp
+monopd - Monopoly game network server
+monotone - Distributed version (revision) control system
+monotone-doc - Distributed version (revision) control system - documentation
+monotone-extras - Distributed version (revision) control system - extras
+monotone-server - Distributed version (revision) control system - server scripts
+monotone-viz - visualize a monotone repository
+mpg123-alsa - MPEG layer 1/2/3 audio player with ALSA support - dummy package
+mpg123-esd - MPEG layer 1/2/3 audio player with Esound support - dummy package
+mpg123-nas - MPEG layer 1/2/3 audio player with NAS support - dummy package
+mzclient - CLI library for multicast DNS service discovery (commandline tool)
+nanoweb-contrib - user contributed utilities for Nanoweb
+otf-freefont - Freefont Serif, Sans and Mono OpenType fonts
+pd-jmmmp - a collection of Pd GUI objects for musical performance
+pd-mjlib - library of Pd objects for composing music
+pentobi - clone of Blokus, a strategy board game based on the concept of polyominoes
+prboom - clone of the legendary first person shooter Doom
+python-polybori - Polynomials over Boolean Rings, Python module
+qct - GUI commit tool
+qliss3d - demonstration tool for Lissajous figures
+qmidiarp - MIDI arpeggiator for ALSA
+ruby-color-tools - Ruby library to provide RGB, CMYK and other colorspace support
+siggen - Waveform generation tools
+sineshaper - Monophonic synth plugin with two oscillators and waveshapers
+tailor - migrate changesets between version control systems
+tex-gyre - scalable PostScript and OpenType fonts based on URW Fonts
+wmmixer - mixer application designed for WindowMaker
+xfonts-thai-etl - Thai etl fonts for X
+xfonts-thai-manop - Dr.Manop Wongsaisuwan's bitmap fonts for X
+xfonts-thai-vor - Voradesh Yenbut bitmap fonts for X
+xmp - module player supporting AWE32, GUS, and software-mixing
+xphoon - sets the root window to a picture of the moon
+zita-rev1 - pro-audio reverb effect
+amb-plugins - ambisonics LADPSA plugins
+ardour - digital audio workstation (graphical gtk2 interface)
+boa - Servidor web ligero y de alto rendimiento
+bsdgames - colección de juegos clásicos textuales de unix
+defendguin - clon de «defender» con pingüinos
+defendguin-data - Archivos de datos para defendguin
+gtkatlantic - Juego similar al Monopoly
+kwave - Editor de sonido de KDE
+libavahi-ui0.0-cil - CLI bindings for Avahi Ui
+libavahi1.0-cil - CLI bindings for Avahi
+libclass-dbi-fromcgi-perl - Módulo Perl para actualizar datos Class::DBI usando CGI::Untaint
+libggi-target-monotext - General Graphics Interface plain text target
+libggi-target-terminfo - General Graphics Interface TermInfo display target
+libmono-cecil-cil - library to generate and inspect CIL assemblies
+libmono-fuse-cil - Vínculo CLI para FUSE
+libmono-microsoft-visualbasic8.0-cil - Visual Basic 2005 runtime libraries for Mono
+libmono-zeroconf-cil-dev - CLI library for multicast DNS service discovery
+libopenal-dev - Software implementation of the OpenAL API (development files)
+libtaoframework-devil-cil-dev - Uniones Tao CLI para DevIL - archivos de desarrollo
+libtaoframework-freeglut2.4-cil - Uniones Tao CLI para freeglut
+libtaoframework-freetype2.3-cil - Uniones Tao CLI para FreeType
+libtaoframework-ftgl-cil-dev - Uniones Tao CLI para FTGL - archivos de desarrollo
+libtaoframework-ftgl2.1-cil - Uniones Tao CLI para FTGL
+libtaoframework-lua-cil-dev - Uniones Tao CLI para Lua - archivos de desarrollo
+libtaoframework-ode0.9-cil - Uniones Tao CLI para ODE
+libtaoframework-openal1.1-cil - Uniones Tao CLI para OpenAL
+libtaoframework-opengl-cil-dev - Tao CLI binding for OpenGL and GLU - development files
+mono-xsp2 - servidor web simple para ejecutar aplicaciones ASP.NET 2.0
+mono-xsp2-base - bibliotecas principales para XSP 2.0
+monodevelop-database - Complemento de bases de datos para MonoDevelop
+monodevelop-debugger-gdb - Complemento del depurador GNU para MonoDevelop
+monodevelop-java - Complemento Java para MonoDevelop
+monodevelop-python - Complemento Python para MonoDevelop
+monodevelop-vala - Complemento Vala para MonoDevelop
+monodoc-avahi-manual - documentación compilada en XML para los vínculos CLI de avahi
+monodoc-banshee-manual - Media Management and Playback application (developer documentation)
+monodoc-db4o-manual - documentación compilada en XML para db4o
+monodoc-gdata-manual - documentación compilada en XML para GData
+monodoc-gnome-keyring-manual - CLI library to access the GNOME Keyring daemon - manual
+monodoc-gtk2.0-manual - documentación compilada en XML para GTK# 2.10
+monodoc-http - Visor MonoDoc basado en http
+monodoc-hyena-manual - documentación compilada en XML para Hyena
+monodoc-mono-fuse-manual - documentación compilada en XML para mono-fuse
+monodoc-mono-zeroconf-manual - documentación compilada en XML para mono-zeroconf
+monodoc-mysql-manual - documentación compilada en XML para la biblioteca MySql.Data
+monodoc-taglib-manual - documentación compilada en XML para taglib-sharp
+monodoc-taoframework-manual - documentación compilada en XML para todas las bibliotecas Tao
+nunit - Entorno de trabajo de pruebas de unidad para CLI
+taoframework-examples - ejemplos para todas las bibliotecas Tao
+themonospot - aplicación para escanear archivos de vídeo
+xfaces - Muestra una imagen por cada correo electrónico de su buzón
+xfonts-thai-nectec - Thai fixed fonts for X from Nectec
+xfonts-thai-poonlap - Poonlap Veerathanabutr bitmap fonts for X
+xpat2 - Juego genérico de paciencia para X11
+libopus0 - Opus codec runtime library
+libopus-dev - Opus codec library development files
+ca-certificates-mono - Common CA certificates (Mono keystore)
+libfpm-helper0 - ASP.NET backend for FastCGI Process Manager - helper lib
+libmono-2.0-1 - Mono JIT library (Default version)
+libmono-2.0-dev - Mono JIT library - Development files (Default version)
+libmono-accessibility2.0-cil - Mono Accessibility library (for CLI 2.0)
+libmono-accessibility4.0-cil - Mono Accessibility library (for CLI 4.0)
+libmono-c5-1.1-cil - Mono C5 library
+libmono-cairo2.0-cil - Mono Cairo library (for CLI 2.0)
+libmono-cairo4.0-cil - Mono Cairo library (for CLI 4.0)
+libmono-cecil-private-cil - Mono.Cecil library
+libmono-cecil-vb0.9-cil - Visual Basic 2012 Cecil libraries for Mono
+libmono-cil-dev - Mono Base Class Libraries (BCL) - Development files
+libmono-codecontracts4.0-cil - Mono.CodeContracts library (for CLI 4.0)
+libmono-compilerservices-symbolwriter4.0-cil - Mono.CompilerServices.SymbolWriter library (for CLI 4.0)
+libmono-corlib2.0-cil - Mono core library (transitional package)
+libmono-corlib4.0-cil - Mono core library (transitional package)
+libmono-corlib4.5-cil - Mono core library (for CLI 4.5)
+libmono-cscompmgd0.0-cil - Mono cscompmgd library (for CLI 4.0)
+libmono-cscompmgd8.0-cil - Mono cscompmgd library (for CLI 2.0)
+libmono-csharp4.0c-cil - Mono.CSharp library (for CLI 4.0)
+libmono-custommarshalers4.0-cil - Mono CustomMarshalers library (for CLI 4.0)
+libmono-data-tds2.0-cil - Mono Data Library (for CLI 2.0)
+libmono-data-tds4.0-cil - Mono Data Library (for CLI 4.0)
+libmono-db2-1.0-cil - Mono DB2 library
+libmono-debugger-soft2.0a-cil - Mono Soft Debugger library (for CLI 2.0)
+libmono-debugger-soft4.0a-cil - Mono Soft Debugger library (for CLI 4.0)
+libmono-entityframework-sqlserver6.0-cil - EntityFramework.SqlServer library (for CLI 4.0)
+libmono-entityframework6.0-cil - EntityFramework library (for CLI 4.0)
+libmono-http4.0-cil - Mono.Http library (for CLI 4.0)
+libmono-i18n-cjk4.0-cil - Mono I18N.CJK library (for CLI 4.0)
+libmono-i18n-mideast4.0-cil - Mono I18N.MidEast library (for CLI 4.0)
+libmono-i18n-other4.0-cil - Mono I18N.Other library (for CLI 4.0)
+libmono-i18n-rare4.0-cil - Mono I18N.Rare library (for CLI 4.0)
+libmono-i18n-west2.0-cil - Mono I18N.West library (for CLI 2.0)
+libmono-i18n-west4.0-cil - Mono I18N.West library (for CLI 4.0)
+libmono-i18n2.0-cil - Mono I18N libraries (for CLI 2.0)
+libmono-i18n4.0-all - Mono I18N libraries (for CLI 4.0)
+libmono-i18n4.0-cil - Mono I18N base library (for CLI 4.0)
+libmono-ldap2.0-cil - Mono LDAP library (for CLI 2.0)
+libmono-ldap4.0-cil - Mono LDAP library (for CLI 4.0)
+libmono-management2.0-cil - Mono Management library (for CLI 2.0)
+libmono-management4.0-cil - Mono Management library (for CLI 4.0)
+libmono-messaging-rabbitmq2.0-cil - Mono Messaging RabbitMQ library (for CLI 2.0)
+libmono-messaging-rabbitmq4.0-cil - Mono Messaging RabbitMQ library (for CLI 4.0)
+libmono-messaging2.0-cil - Mono Messaging library (for CLI 2.0)
+libmono-messaging4.0-cil - Mono Messaging library (for CLI 4.0)
+libmono-microsoft-build-engine4.0-cil - Mono Microsoft.Build.Engine library (for CLI 4.0)
+libmono-microsoft-build-framework4.0-cil - Mono Microsoft.Build.Framework library (for CLI 4.0)
+libmono-microsoft-build-tasks-v4.0-4.0-cil - Mono Microsoft.Build.Tasks.v4.0 library (for CLI 4.0)
+libmono-microsoft-build-utilities-v4.0-4.0-cil - Mono Microsoft.Build.Utilities.v4.0 library (for CLI 4.0)
+libmono-microsoft-build2.0-cil - Mono Microsoft.Build libraries (for CLI 2.0)
+libmono-microsoft-build4.0-cil - Mono Microsoft.Build library (for CLI 4.0)
+libmono-microsoft-csharp4.0-cil - Mono Microsoft.CSharp library (for CLI 4.0)
+libmono-microsoft-visualbasic10.0-cil - Visual Basic 2012 runtime libraries for Mono
+libmono-microsoft-visualbasic11.0-cil - Visual Basic 2012 runtime libraries for Mono
+libmono-microsoft-visualc10.0-cil - Mono Microsoft.VisualC library (for CLI 4.0)
+libmono-microsoft-web-infrastructure1.0-cil - Mono Microsoft.Web.Infrastructure library (for CLI 4.0)
+libmono-microsoft8.0-cil - Mono Microsoft libraries (for CLI 2.0)
+libmono-npgsql2.0-cil - Mono Npgsql library (for CLI 2.0)
+libmono-npgsql4.0-cil - Mono Npgsql library (for CLI 4.0)
+libmono-oracle2.0-cil - Mono Oracle library (for CLI 2.0)
+libmono-oracle4.0-cil - Mono Oracle library (for CLI 4.0)
+libmono-parallel4.0-cil - Mono.Parallel library (for CLI 4.0)
+libmono-peapi2.0a-cil - Mono PEAPI library (for CLI 2.0)
+libmono-peapi4.0a-cil - Mono PEAPI library (for CLI 4.0)
+libmono-posix2.0-cil - Mono.Posix library (for CLI 2.0)
+libmono-posix4.0-cil - Mono.Posix library (for CLI 4.0)
+libmono-profiler - Mono profiler libraries
+libmono-rabbitmq2.0-cil - Mono RabbitMQ.Client library (for CLI 2.0)
+libmono-rabbitmq4.0-cil - Mono RabbitMQ.Client library (for CLI 4.0)
+libmono-relaxng2.0-cil - Mono Relaxng library (for CLI 2.0)
+libmono-relaxng4.0-cil - Mono Relaxng library (for CLI 4.0)
+libmono-security2.0-cil - Mono Security library (for CLI 2.0)
+libmono-security4.0-cil - Mono Security library (for CLI 4.0)
+libmono-sharpzip2.6-cil - Mono SharpZipLib library (for CLI 2.0)
+libmono-sharpzip2.84-cil - Mono SharpZipLib library (for CLI 2.0)
+libmono-sharpzip4.84-cil - Mono SharpZipLib library (for CLI 4.0)
+libmono-simd2.0-cil - Mono SIMD (for CLI 2.0)
+libmono-simd4.0-cil - Mono SIMD (for CLI 4.0)
+libmono-sqlite2.0-cil - Mono Sqlite library (for CLI 2.0)
+libmono-sqlite4.0-cil - Mono Sqlite library (for CLI 4.0)
+libmono-system-componentmodel-composition4.0-cil - Mono System.ComponentModel.Composition library (for CLI 4.0)
+libmono-system-componentmodel-dataannotations4.0-cil - Mono System.ComponentModel.DataAnnotations library (for CLI 4.0)
+libmono-system-configuration-install4.0-cil - Mono System.Configuration.Install library (for CLI 4.0)
+libmono-system-configuration4.0-cil - Mono System.Configuration library (for CLI 4.0)
+libmono-system-core4.0-cil - Mono System.Core library (for CLI 4.0)
+libmono-system-data-datasetextensions4.0-cil - Mono System.Data.DataSetExtensions library (for CLI 4.0)
+libmono-system-data-entity4.0-cil - Mono System.Data.Entity library (for CLI 4.0)
+libmono-system-data-linq2.0-cil - Mono System.Data.Linq Library (for CLI 2.0)
+libmono-system-data-linq4.0-cil - Mono System.Data.Linq Library (for CLI 4.0)
+libmono-system-data-services-client4.0-cil - Mono System.Data.Services.Client library (for CLI 4.0)
+libmono-system-data-services2.0-cil - Mono System.Data.Services library (for CLI 2.0)
+libmono-system-data-services4.0-cil - Mono System.Data.Services library (for CLI 4.0)
+libmono-system-data2.0-cil - Mono System.Data Library (for CLI 2.0)
+libmono-system-data4.0-cil - Mono System.Data library (for CLI 4.0)
+libmono-system-design4.0-cil - Mono System.Design Library (for CLI 4.0)
+libmono-system-drawing-design4.0-cil - Mono System.Drawing.Design (for CLI 4.0)
+libmono-system-drawing4.0-cil - Mono System.Drawing library (for CLI 4.0)
+libmono-system-dynamic4.0-cil - Mono System.Dynamic library (for CLI 4.0)
+libmono-system-enterpriseservices4.0-cil - Mono System.EnterpriseServices library (for CLI 4.0)
+libmono-system-identitymodel-selectors4.0-cil - Mono System.IdentityModel.Selectors Library (for CLI 4.0)
+libmono-system-identitymodel4.0-cil - Mono System.IdentityModel Library (for CLI 4.0)
+libmono-system-io-compression-filesystem4.0-cil - Mono System.IO.Compresion.FileSystem library (for CLI 4.0)
+libmono-system-io-compression4.0-cil - Mono System.IO.Compression library (for CLI 4.0)
+libmono-system-json-microsoft4.0-cil - Mono System.Json.Microsoft library (for CLI 4.0)
+libmono-system-json2.0-cil - Mono System.Json library (for CLI 2.0)
+libmono-system-json4.0-cil - Mono System.Json library (for CLI 4.0)
+libmono-system-ldap-protocols4.0-cil - Mono System.DirectoryServices.Protocols library (for CLI 4.0)
+libmono-system-ldap2.0-cil - Mono System.DirectoryServices library (for CLI 2.0)
+libmono-system-ldap4.0-cil - Mono System.DirectoryServices library (for CLI 4.0)
+libmono-system-management4.0-cil - Mono System.Management library (for CLI 4.0)
+libmono-system-messaging2.0-cil - Mono System.Messaging Library (for CLI 2.0)
+libmono-system-messaging4.0-cil - Mono System.Messaging library (for CLI 4.0)
+libmono-system-net-http-formatting4.0-cil - Mono System.Net.Http.Formatting library (for CLI 4.0)
+libmono-system-net-http-webrequest4.0-cil - Mono System.Net.Http.WebRequest library (for CLI 4.0)
+libmono-system-net-http4.0-cil - Mono System.Net.Http library (for CLI 4.0)
+libmono-system-net2.0-cil - Mono System.Net library (for CLI 2.0)
+libmono-system-net4.0-cil - Mono System.Net library (for CLI 4.0)
+libmono-system-numerics4.0-cil - Mono System.Numerics library (for CLI 4.0)
+libmono-system-reactive-core2.2-cil - Mono System.Reactive.Core Library (for CLI 4.5)
+libmono-system-reactive-debugger2.2-cil - Mono System.Reactive.Debugger Library (for CLI 4.5)
+libmono-system-reactive-experimental2.2-cil - Mono System.Reactive.Experimental Library (for CLI 4.5)
+libmono-system-reactive-interfaces2.2-cil - Mono System.Reactive.Interfaces Library (for CLI 4.5)
+libmono-system-reactive-linq2.2-cil - Mono System.Reactive.Linq Library (for CLI 4.5)
+libmono-system-reactive-observable-aliases0.0-cil - Mono System.Reactive.Linq Library (for CLI 4.5)
+libmono-system-reactive-platformservices2.2-cil - Mono System.Reactive.PlatformServices Library (for CLI 4.5)
+libmono-system-reactive-providers2.2-cil - Mono System.Reactive.Providers Library (for CLI 4.5)
+libmono-system-reactive-runtime-remoting2.2-cil - Mono System.Reactive.Runtime.Remoting Library (for CLI 4.5)
+libmono-system-reactive-windows-forms2.2-cil - Mono System.Reactive.Windows.Forms Library (for CLI 4.5)
+libmono-system-reactive-windows-threading2.2-cil - Mono System.Reactive.Windows.Threading Library (for CLI 4.5)
+libmono-system-runtime-caching4.0-cil - Mono System.Runtime.Caching Library (for CLI 4.0)
+libmono-system-runtime-durableinstancing4.0-cil - Mono System.Runtime.DurableInstancing Library (for CLI 4.0)
+libmono-system-runtime-serialization-formatters-soap4.0-cil - Mono System.Runtime.Serialization.Formatters.Soap Library (for CLI 4.0)
+libmono-system-runtime-serialization4.0-cil - Mono System.Runtime.Serialization Library (for CLI 4.0)
+libmono-system-runtime2.0-cil - Mono System.Runtime Library (for CLI 2.0)
+libmono-system-runtime4.0-cil - Mono System.Runtime library (for CLI 4.0)
+libmono-system-security4.0-cil - Mono System.Security library (for CLI 4.0)
+libmono-system-servicemodel-activation4.0-cil - Mono System.ServiceModel.Activation Library (for CLI 4.0)
+libmono-system-servicemodel-discovery4.0-cil - Mono System.ServiceModel.Discovery Library (for CLI 4.0)
+libmono-system-servicemodel-routing4.0-cil - Mono System.ServiceModel.Routing Library (for CLI 4.0)
+libmono-system-servicemodel-web4.0-cil - Mono System.ServiceModel.Web Library (for CLI 4.0)
+libmono-system-servicemodel4.0a-cil - Mono System.ServiceModel Library (for CLI 4.0)
+libmono-system-serviceprocess4.0-cil - Mono System.ServiceProcess library (for CLI 4.0)
+libmono-system-threading-tasks-dataflow4.0-cil - Mono System.Threading.Tasks.Dataflow library (for CLI 4.0)
+libmono-system-transactions4.0-cil - Mono System.Transactions library (for CLI 4.0)
+libmono-system-web-abstractions4.0-cil - Mono System.Web.Abstractions library (for CLI 4.0)
+libmono-system-web-applicationservices4.0-cil - Mono System.Web.ApplicationServices library (for CLI 4.0)
+libmono-system-web-dynamicdata4.0-cil - Mono System.Web.DynamicData library (for CLI 4.0)
+libmono-system-web-extensions-design4.0-cil - Mono System.Web.Extensions.Design library (for CLI 4.0)
+libmono-system-web-extensions4.0-cil - Mono System.Web.Extensions library (for CLI 4.0)
+libmono-system-web-http-selfhost4.0-cil - Mono System.Web.Http.SelfHost library (for CLI 4.0)
+libmono-system-web-http-webhost4.0-cil - Mono System.Web.Http.WebHost library (for CLI 4.0)
+libmono-system-web-http4.0-cil - Mono System.Web.Http library (for CLI 4.0)
+libmono-system-web-mvc1.0-cil - Mono ASP.NET MVC 1.0 Library (for CLI 2.0)
+libmono-system-web-mvc2.0-cil - Mono ASP.NET MVC 2.0 Library (for CLI 2.0)
+libmono-system-web-mvc3.0-cil - Mono ASP.NET MVC 3.0 Library (for CLI 4.0)
+libmono-system-web-razor2.0-cil - Mono System.Web.Razor (for CLI 4.0)
+libmono-system-web-routing4.0-cil - Mono System.Web.Routing (for CLI 4.0)
+libmono-system-web-services4.0-cil - Mono System.Web.Services (for CLI 4.0)
+libmono-system-web-webpages-deployment2.0-cil - Mono System.Web.WebPages.Deployment (for CLI 4.0)
+libmono-system-web-webpages-razor2.0-cil - Mono System.Web.WebPages.Razor (for CLI 4.0)
+libmono-system-web-webpages2.0-cil - Mono System.Web.WebPages (for CLI 4.0)
+libmono-system-web2.0-cil - Mono System.Web Library (for CLI 2.0)
+libmono-system-web4.0-cil - Mono System.Web library (for CLI 4.0)
+libmono-system-windows-forms-datavisualization4.0a-cil - Mono System.Windows.Forms.DataVisualization Library (for CLI 4.0)
+libmono-system-windows-forms4.0-cil - Mono System.Windows.Forms Library (for CLI 4.0)
+libmono-system-windows4.0-cil - Mono System.Windows library (for CLI 4.0)
+libmono-system-xaml4.0-cil - Mono System.Xaml Library (for CLI 4.0)
+libmono-system-xml-linq4.0-cil - Mono System.Xml.Linq library (for CLI 4.0)
+libmono-system-xml-serialization4.0-cil - Mono System.Xml.Serialization library (for CLI 4.0)
+libmono-system-xml4.0-cil - Mono System.Xml library (for CLI 4.0)
+libmono-system2.0-cil - Mono System libraries (transitional package)
+libmono-system4.0-cil - Mono System libraries (for CLI 4.0)
+libmono-tasklets2.0-cil - Mono Tasklets library (for CLI 2.0)
+libmono-tasklets4.0-cil - Mono Tasklets library (for CLI 4.0)
+libmono-wcf3.0a-cil - Mono WCF libraries (for CLI 2.0)
+libmono-webbrowser2.0-cil - Mono Web Browser library (for CLI 2.0)
+libmono-webbrowser4.0-cil - Mono Web Browser library (for CLI 4.0)
+libmono-webmatrix-data4.0-cil - Mono WebMatrix.Data Library (for CLI 4.0)
+libmono-windowsbase3.0-cil - Mono WindowsBase library (for CLI 2.0)
+libmono-windowsbase4.0-cil - Mono WindowsBase library (for CLI 4.0)
+libmono-winforms2.0-cil - Mono System.Windows.Forms library (for CLI 2.0)
+libmono-xbuild-tasks2.0-cil - Mono Mono.XBuild.Tasks library (for CLI 2.0)
+libmono-xbuild-tasks4.0-cil - Mono Mono.XBuild.Tasks library (for CLI 4.0)
+libmono2.0-cil - Mono libraries (for CLI 2.0)
+libmonoboehm-2.0-1 - Mono JIT library (Boehm GC)
+libmonoboehm-2.0-1-dbg - Mono JIT library, debugging symbols (Boehm GC)
+libmonoboehm-2.0-dev - Mono JIT library - Development files (Boehm GC)
+libmonosgen-2.0-1 - Mono JIT library (SGen GC)
+libmonosgen-2.0-1-dbg - Mono JIT library, debugging symbols (SGen GC)
+libmonosgen-2.0-dev - Mono JIT library - Development files (SGen GC)
+libnunit-doc - Unit test framework for CLI - Documentation
+mono-2.0-gac - Mono GAC tool (for CLI 2.0)
+mono-2.0-service - Mono service manager for CLI 2.0
+mono-4.0-gac - Mono GAC tool (for CLI 4.0)
+mono-4.0-service - Mono service manager for CLI 4.0
+mono-basic-dbg - Mono Visual Basic, debugging symbols
+mono-complete - complete Mono runtime, development tools and all libraries
+mono-csharp-shell - interactive C# shell
+mono-dbg - Mono debugging symbols
+mono-devel - Mono development tools
+mono-dmcs - Mono C# 4.0 compiler for CLI 4.0 (transitional package)
+mono-fpm-server - ASP.NET backend for FastCGI Process Manager
+mono-gac - Mono GAC tool
+mono-gmcs - Mono C# 2.0 and C# 3.0 compiler for CLI 2.0 (transitional package)
+mono-jay - LALR(1) parser generator oriented to Java/CLI
+mono-mcs - Mono C# 2.0 / 3.0 / 4.0 / 5.0  compiler for CLI 2.0 / 4.0 / 4.5
+mono-runtime - Mono runtime - default version
+mono-runtime-boehm - Mono runtime - Boehm
+mono-runtime-common - Mono runtime - common files
+mono-runtime-dbg - Mono runtime, debugging symbols
+mono-runtime-sgen - Mono runtime - SGen
+mono-utils - Mono utilities
+mono-vbnc - Mono Visual Basic Compiler (VB.NET)
+mono-xbuild - MSBuild-compatible build system for Mono
+monodevelop - Development Environment for GNOME
+monodevelop-nunit - NUnit plugin for MonoDevelop
+monodevelop-versioncontrol - VersionControl plugin for MonoDevelop
+monodoc-nunit-manual - compiled XML documentation for NUnit - monodoc manual
+nunit-console - Unit test framework for CLI - Console test runner
+nunit-gui - Unit test framework for CLI - GUI test runner
+referenceassemblies-pcl - Portable Library Reference Assemblies for .NET
